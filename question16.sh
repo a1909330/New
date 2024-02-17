@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd git-practice-02
+cd Q3
 
 # Merge branch3 with branch2
 git checkout branch2
